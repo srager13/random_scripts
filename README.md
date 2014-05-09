@@ -8,4 +8,5 @@ sort_CVs.py:
 plot_queue_errors.py:
   Script to parse and plot data of queue errors in ns-3 simulations run with the distributed backpressure protocol.
 
-
+fitness_center_occupancy.py:
+  Script to scrape PSU's fitness center website to collect occupancy data at the various rec centers/gyms.
