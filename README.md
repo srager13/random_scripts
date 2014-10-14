@@ -10,3 +10,15 @@ plot_queue_errors.py:
 
 fitness_center_occupancy.py:
   Script to scrape PSU's fitness center website to collect occupancy data at the various rec centers/gyms.
+
+barwitherr.m:
+	Library file downloaded from mathworks that will create a bar graph with error bars.
+
+labeled_scatter.m:
+	Plot script that creates a scatter plot with values at each index intersection (like a grid).  Each plotted value is inside a circle whose size depends on the value being inserted and includes a label of the actual value. 
+
+plot_scatter.m:
+	Scatter plot that places many rows on the same graph.  This allows for many y-values for each x-value, letting you show heavily trafficed areas, for example.  
+
+three_d_bar_plot.m:
+	As the name suggests, this script creates a 3-dimensional bar graph.
